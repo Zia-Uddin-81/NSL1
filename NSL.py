@@ -1,3 +1,4 @@
+#This is just an exercise of  googles latest tensorflow NSL 
 import tensorflow as tf
 import neural_structured_learning as nsl
 
